@@ -9,7 +9,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 1. First we want to import numpy 
-2.Then we want to import sciply.linalg and import lufor lu decomposition 
+2. Then we want to import sciply.linalg and import lufor lu decomposition 
 3. Then we want to assume a input
 4. Then print a result
 
