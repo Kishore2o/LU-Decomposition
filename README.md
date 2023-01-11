@@ -14,8 +14,8 @@ To write a program to find the LU Decomposition of a matrix.
 4. Then print a result.
 
 ## Program:
+```
 (i) To find the L and U matrix
-
 /*
 Program to find the L and U matrix.
 Developed by: YUVARAJ.S
@@ -45,11 +45,13 @@ lu,piv=lu_factor(a)
 x=lu_solve((lu,piv),b)
 print(x)
 */
-
+```
 
 ## Output:
-![lu L and U Matrix](./lu1.png)
-![LU Decomposition](./lu2.png)
+![LU dec](https://user-images.githubusercontent.com/118679883/211832193-719686a6-2216-47da-9e16-f16f408b4aa5.png)
+![PLU dec](https://user-images.githubusercontent.com/118679883/211832414-a8c555cb-f2f5-41da-be19-848a7caacbc0.png)
+
+
 
 
 ## Result:
