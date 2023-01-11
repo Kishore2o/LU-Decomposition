@@ -24,8 +24,7 @@ print(L)
 print(U)
 ```
 
-## Output:
-![OUTPUT](./images/LU deecom.png)
+## Output
 
 
 ## Result:
